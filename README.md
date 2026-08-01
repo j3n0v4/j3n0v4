@@ -13,9 +13,8 @@ I'm an MLOps Engineer and AI Developer based in the Netherlands, focused on buil
 | Project | Description |
 |---------|-------------|
 | [apple-silicon-llm-guide](https://github.com/j3n0v4/apple-silicon-llm-guide) | Benchmarks, setup guides, and workarounds for running LLMs on Apple Silicon |
+| [apple-silicon-monitor](https://github.com/j3n0v4/apple-silicon-monitor) | Real-time hardware + inference monitoring for Apple Silicon LLMs with Grafana |
 
 ## 🛠️ Tech Stack
 
 `Python` `Docker` `Ollama` `MLX` `Proxmox` `Git` `MkDocs` `Linux` `macOS`
-
----
