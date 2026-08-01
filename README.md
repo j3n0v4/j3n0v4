@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm JD Cordero 👋
 
-<!--
-**j3n0v4/j3n0v4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an MLOps Engineer and AI Developer based in the Netherlands, focused on building practical local LLM infrastructure.
 
-Here are some ideas to get you started:
+## 🔧 What I Work On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Local LLM deployment** — benchmarking and optimizing models on Apple Silicon
+- **MLOps pipelines** — monitoring, deployment, and automation for AI workloads
+- **Infrastructure as code** — Docker, Proxmox, networking, and configuration management
+
+## 📊 Current Projects
+
+| Project | Description |
+|---------|-------------|
+| [apple-silicon-llm-guide](https://github.com/j3n0v4/apple-silicon-llm-guide) | Benchmarks, setup guides, and workarounds for running LLMs on Apple Silicon |
+
+## 🛠️ Tech Stack
+
+`Python` `Docker` `Ollama` `MLX` `Proxmox` `Git` `MkDocs` `Linux` `macOS`
+
+---
