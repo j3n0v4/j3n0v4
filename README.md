@@ -7,7 +7,7 @@ I'm an MLOps Engineer and AI Developer based in the Netherlands, focused on buil
 - **Local LLM deployment** — benchmarking and optimizing models on Apple Silicon
 - **MLOps pipelines** — monitoring, deployment, and automation for AI workloads
 - **Infrastructure as code** — Docker, Proxmox, networking, and configuration management
-- **Side projects** — whatever peaks my interest
+- **Hardware revival** — repurposing second-hand and end-of-life hardware into daily drivers
 
 ## 📊 Projects
 
