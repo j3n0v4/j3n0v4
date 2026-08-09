@@ -1,0 +1,11 @@
+# Private files — credentials, accounts, never push
+.hermes/desktop-attachments/
+*.xlsx
+
+# Agent / backup
+.hermes/
+*.backup
+.webui_secret_key
+# OS metadata
+.DS_Store
+Thumbs.db
