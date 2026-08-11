@@ -32,6 +32,7 @@
 | [apple-telemetry-blocklist](https://github.com/j3n0v4/apple-telemetry-blocklist) | Little Snitch 6 blocklist for Apple, Microsoft, and third-party telemetry |
 | [aruba-s3500-collector](https://github.com/j3n0v4/aruba-s3500-collector) | Prometheus exporter for Aruba S3500-48P switches — CLI-only metrics that SNMP cannot reach |
 | [tuta-automation](https://github.com/j3n0v4/tuta-automation) | Automation layer for Tuta encrypted email on macOS via TutaBridge |
+| [homelab-backup-restore](https://github.com/j3n0v4/homelab-backup-restore) | Automated backup and off-site replication for Proxmox, TrueNAS, and OPNsense |
 
 <p align="center">
   <a href="https://github.com/j3n0v4">GitHub</a> ·
