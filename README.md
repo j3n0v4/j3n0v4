@@ -33,6 +33,7 @@
 | [aruba-s3500-collector](https://github.com/j3n0v4/aruba-s3500-collector) | Prometheus exporter for Aruba S3500-48P switches — CLI-only metrics that SNMP cannot reach |
 | [tuta-automation](https://github.com/j3n0v4/tuta-automation) | Automation layer for Tuta encrypted email on macOS via TutaBridge |
 | [homelab-backup-restore](https://github.com/j3n0v4/homelab-backup-restore) | Automated backup and off-site replication for Proxmox, TrueNAS, and OPNsense |
+| [elitebook-docker-server](https://github.com/j3n0v4/elitebook-docker-server) | Shell scripts that turn a fresh Debian 13 install on an HP EliteBook x360 1040 G6 into a hardened bare-metal Docker server |
 
 <p align="center">
   <a href="https://github.com/j3n0v4">GitHub</a> ·
